@@ -17,7 +17,7 @@ Now let's say the user wants to see their new entry in the list. They would sele
 one below with their new entry found in the final row.
 
 Year    | Make    |Model      
-------- |:-------:|---------- 
+------- |:-------:|:----------: 
 1948    |Ford     |Sedan      
 1952    |Chevrolet|Coupe      
 1960    |Ford     |Mustang    
