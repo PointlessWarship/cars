@@ -28,6 +28,6 @@ Year    | Make    |Model
 At any point, the user can exit the program by selecting option 3 where the program will exit the while loop upon displaying a "Goodbye" message.
  
 ### Authors and Acknowledgement
-This bash script was created by Nick Fuess under the directions of Dr. M. Fahy. Any quesstions regarding this project should be 
+This bash script was created by Nick Fuess under the directions of Dr. M. Fahy. Any questions regarding this project should be 
 directed to them.
 
