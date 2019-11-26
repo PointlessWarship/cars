@@ -9,22 +9,23 @@ The user will be presented with a menu of three options:
 ## Usage
 When prompted, users must enter a valid integer (1-3) otherwise they will be reprompted for a valid input. Entering any of the
 valid inputs will redirect the user to the designated outcome they have selected.
+
 For instance, if the user wanted to add to the list their newly aquired 1968 Chevrolet Camaro, they would choose option 1 then
 use 1968 as the year, Chevrolet as the make, and Camaro as the model.
 
 Now let's say the user wants to see their new entry in the list. They would select option 2 and be greeted with a list like the
 one below with their new entry found in the final row.
 
-Year    | Make    |Model     |
-------- |:-------:|----------|
-1948    |Ford     |Sedan     |
-1952    |Chevrolet|Coupe     |
-1960    |Ford     |Mustang   |
-1972    |Chevrolet|Corvette  |
-1977    |Plymouth |Roadrunner|
-1968    |Chevrolet|Camaro    |
+Year    | Make    |Model      |
+------- |:-------:|---------- |
+1948    |Ford     |Sedan      |
+1952    |Chevrolet|Coupe      |
+1960    |Ford     |Mustang    |
+1972    |Chevrolet|Corvette   | 
+1977    |Plymouth |Roadrunner |
+1968    |Chevrolet|Camaro     |
 
-At any point, the user can exit the program by selecting option 3 where the program will display a "Goodbye" message upon exitingthe loop.
+At any point, the user can exit the program by selecting option 3 where the program will exit the while loop upon displaying a "Goodbye" message.
  
 ### Authors and Acknowledgement
 This bash script was created by Nick Fuess under the directions of Dr. M. Fahy. Any quesstions regarding this project should be 
