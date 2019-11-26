@@ -16,12 +16,12 @@ Now let's say the user wants to see their new entry in the list. They would sele
 one below with their new entry found in the final row.
 
 Year    | Make    |Model     |
-------- |:-------:|---------:|
-1948    |Ford     |sedan     |
-1952    |Chevrolet|coupe     |
+------- |:-------:|----------|
+1948    |Ford     |Sedan     |
+1952    |Chevrolet|Coupe     |
 1960    |Ford     |Mustang   |
 1972    |Chevrolet|Corvette  |
-1977    |Plymouth |Roudrunner|
+1977    |Plymouth |Roadrunner|
 1968    |Chevrolet|Camaro    |
 
 At any point, the user can exit the program by selecting option 3 where the program will display a "Goodbye" message upon exitingthe loop.
